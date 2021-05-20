@@ -54,3 +54,12 @@ a {
     text-align: center;
     padding: 15px 32px;
 }
+.ins{
+    width: 350px;
+    margin-left: 50px;
+    transition: transform .2s;
+    border: 10px solid #000000;
+}
+.ins:hover{
+    transform: scale(0.9);
+}
